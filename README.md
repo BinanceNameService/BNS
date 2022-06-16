@@ -1,2 +1,2 @@
-# brick_pc
-brick pc
+# bns_pc
+bns pc
