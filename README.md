@@ -1,1 +1,2 @@
-# BNS
+# brick_pc
+brick pc
